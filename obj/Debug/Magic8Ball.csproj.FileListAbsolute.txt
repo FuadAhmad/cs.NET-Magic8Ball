@@ -1,0 +1,6 @@
+G:\working Area\exercise\CodeGasm\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+G:\working Area\exercise\CodeGasm\Magic8Ball\bin\Debug\Magic8Ball.exe
+G:\working Area\exercise\CodeGasm\Magic8Ball\bin\Debug\Magic8Ball.pdb
+G:\working Area\exercise\CodeGasm\Magic8Ball\obj\Debug\Magic8Ball.csprojResolveAssemblyReference.cache
+G:\working Area\exercise\CodeGasm\Magic8Ball\obj\Debug\Magic8Ball.exe
+G:\working Area\exercise\CodeGasm\Magic8Ball\obj\Debug\Magic8Ball.pdb
